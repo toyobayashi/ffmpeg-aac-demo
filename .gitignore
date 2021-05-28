@@ -1,0 +1,4 @@
+deps
+.cgenbuild
+node_modules
+CMakeLists.txt
